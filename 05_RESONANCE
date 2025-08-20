@@ -1,5 +1,5 @@
-While EION is structured as a full modular simulation framework, the Resonance repo contains only a functional slice of the complete system. 
+While EIONIC is structured as a full modular simulation framework, the Resonance repo contains only a functional slice of the complete system. 
 This includes modules essential for avatar blueprint processing, emotional-state simulation, planetary influence, and SHC dynamics. 
-Several modules present in the broader EION map (such as theta operators, multi-agent resonance, or sacred decoding layers) are not used here but remain part of the long-term design direction.
+Several modules present in the broader EIONIC map (such as theta operators, multi-agent resonance, or sacred decoding layers) are not used here but remain part of the long-term design direction.
 
-The mini sim CMD  demo is maintained under resonance repo at : [https://github.com/eionsim/resonance](https://github.com/eionsim/resonance)
+The mini sim CMD  demo is maintained under resonance repo at : [https://github.com/EIONIC/resonance](https://github.com/EIONIC/resonance)
