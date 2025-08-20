@@ -1,6 +1,6 @@
 Note on this Documentation
 
-This modular documentation outlines the original architecture and design vision of EION; a large-scale framework intended to simulate consciousness, karmic memory, archetypal resonance, and more.
+This modular documentation outlines the original architecture and design vision of EIONIC; a large-scale framework intended to simulate consciousness, karmic memory, archetypal resonance, and more.
 While this current phase focuses on building Resonance Quest as a starting point, I’m keeping this documentation public so that developers, thinkers, and potential collaborators can understand the bigger idea behind the system.
 Not every module listed here will be implemented right away. Some may evolve, change names, or be postponed entirely.
 Think of this as the blueprint. The foundation is here, but we’re starting with just the first room.
@@ -930,7 +930,7 @@ A dynamic engine for living, evolving, and layered simulations, rendered based o
 - **Notes**: Primary. Handles relative time shifts and simulation reality connections.
 
 #### Absolute Timeline (AT) [SUBMOD, SHARED]
-- **Description**: Immutable chronological backbone of the EION system, representing absolute stage time, not character perception.
+- **Description**: Immutable chronological backbone of the EIONIC system, representing absolute stage time, not character perception.
 - **Components**: None listed.
 - **Functions**:
   - *Defines macro layer chronology (e.g., fossils, rock formations, non-sentient elements).
@@ -3003,7 +3003,7 @@ High consciousness understanding and accessing the deepest reality meanings, sym
 ## Elemental & Scientific Engine (ESE) [PARENT, CORE-SCIENTIFIC] [ID:M17]  
 
 ### Description : 
-M17 is the “scientific-spiritual engine” of EION, bridging physics, chemistry, biology, and sacred resonance. It powers the mini sim with *HRB* (emotions), *PLG* (language), and *PEM* (materials) for *living and organic* entities.
+M17 is the “scientific-spiritual engine” of EIONIC, bridging physics, chemistry, biology, and sacred resonance. It powers the mini sim with *HRB* (emotions), *PLG* (language), and *PEM* (materials) for *living and organic* entities.
 
 ### Functions:  
 - *Provides physics and chemistry laws for simulation.  
@@ -3068,7 +3068,7 @@ Coherent physics, biology, and sacred resonance for entities/environments.
 ## Sandbox Isolated Layer (SIL) [PARENT, CORE-EXPERIMENTAL] [ID:M18]
 
 ### Description:  
-M18 is EION’s “playground,” enabling safe experimentation without disrupting *Core Simulation*. It hosts the mini sim, proving EION’s *living and organic* entities with *immutable* logs.
+M18 is EIONIC’s “playground,” enabling safe experimentation without disrupting *Core Simulation*. It hosts the mini sim, proving EIONIC’s *living and organic* entities with *immutable* logs.
 
 ### Functions:  
 - *Isolates experiments from *Core Simulation*.  
