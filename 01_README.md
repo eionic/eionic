@@ -1,4 +1,4 @@
-# EIONICIC: Engine of Infinity and Organic Consciousness
+# EIONIC: Engine of Infinity and Organic Consciousness
 
 **A living simulation of resonance and reality**  
 [github.com/eionic](https://github.com/eionic) | [x.com/EIONICsim](https://x.com/eionic)
