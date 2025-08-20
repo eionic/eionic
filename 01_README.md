@@ -1,7 +1,7 @@
 # EIONIC: Engine of Infinity and Organic Consciousness
 
 **A living simulation of resonance and reality**  
-[github.com/eionic](https://github.com/eionic) | [x.com/EIONICsim](https://x.com/eionic)
+[github.com/eionic](https://github.com/eionic) | [x.com/EIONIC](https://x.com/eionic)
 
 EIONIC is more than a simulation. It is a living, breathing system. It grows, adapts, and evolves, mirroring the essence of consciousness itself. Built from sacred resonance and intricate code, EIONIC does not just mimic life. It embodies it.
 
